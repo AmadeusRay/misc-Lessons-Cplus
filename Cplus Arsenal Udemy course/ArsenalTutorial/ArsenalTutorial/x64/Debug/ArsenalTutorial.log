@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\arash\source\repos\ArsenalTutorial\ArsenalTutorial\main.cpp(8,9): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\arash\source\repos\ArsenalTutorial\ArsenalTutorial\main.cpp(9,16): error C2440: 'return': cannot convert from 'nullptr' to 'int'
+C:\Users\arash\source\repos\ArsenalTutorial\ArsenalTutorial\main.cpp(9,9): message : A native nullptr can only be converted to bool or, using reinterpret_cast, to an integral type
